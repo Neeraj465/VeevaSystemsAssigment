@@ -1,0 +1,360 @@
+Jacket: 1
+price: $249.99
+title: Unisex Pro Standard Black 2025 NBA All-Star Game Wool Varsity Full-Snap Jacket
+message Most Popular in Jackets & Vests
+
+Jacket: 2
+price: $175.00
+title: Unisex Pro Standard Black 2025 NBA All-Star Game Satin Jacket
+message Most Popular in Men Jackets
+
+Jacket: 3
+price: $129.99
+title: Unisex Pro Standard Black 2025 NBA All-Star Game Full-Snap Warm-Up Jacket
+message 
+
+Jacket: 4
+price: $174.99
+title: Unisex Pro Standard Black 2025 NBA All-Star Game x HBCU Full-Snap Satin Jacket
+message 
+
+Jacket: 5
+price: $174.99
+title: Men's Pro Standard Wine All Star x HBCU Classic Full-Snap Satin Jacket
+message 
+
+Jacket: 6
+price: $164.99
+title: Men's Nike Navy Golden State Warriors 2024/25 City Edition Authentic Showtime Performance Full-Zip Jacket
+message Most Popular in Jackets
+
+Jacket: 7
+price: $99.99
+title: Men's Nike Royal Golden State Warriors Courtside Premium Club Anorak Quarter-Zip Pullover Hoodie
+message 
+
+Jacket: 8
+price: $224.99
+title: Men's Mitchell & Ness Black Golden State Warriors Hardwood Classics Blackout Collection Full-Snap Varsity Jacket
+message Most Popular in Jackets & Vests
+
+Jacket: 9
+price: $84.99
+title: Men's Nike Navy Golden State Warriors 2024/25 City Edition Authentic Coaches Performance Half-Zip Top
+message 
+
+Jacket: 10
+price: $114.99
+title: Men's Antigua Black Golden State Warriors Altitude Full-Zip Jacket
+message 
+
+Jacket: 11
+price: $126.99
+title: Men's Antigua Black Golden State Warriors Sway Full-Zip Hoodie Jacket
+message 
+
+Jacket: 12
+price: $134.99
+title: Unisex Mitchell & Ness Royal Golden State Warriors Hardwood Classics Team OG 3.0 Anorak Half-Zip Windbreaker Jacket
+message 
+
+Jacket: 13
+price: $74.99
+title: Men's JH Design Black Golden State Warriors 2023/24 City Edition Full-Zip Bomber Jacket
+message 
+
+Jacket: 14
+price: $119.99
+title: Men's New Era Navy Golden State Warriors 2024/25 City Edition Full-Zip Windbreaker Jacket
+message 
+
+Jacket: 15
+price: $74.99
+title: Men's Nike Black Golden State Warriors 2024/25 Courtside Performance Half-Zip Top
+message 
+
+Jacket: 16
+price: $119.99
+title: Men's Mitchell & Ness Royal Golden State Warriors Hardwood Classics Throwback Wordmark Raglan Full-Snap Jacket
+message 
+
+Jacket: 17
+price: $92.99
+title: Men's Nike Black Golden State Warriors 2023/24 City Edition Courtside Premier Full-Snap Bomber Jacket
+message Most Popular in Jackets
+
+Jacket: 18
+price: $119.99
+title: Unisex The Wild Collective Black Golden State Warriors Flannel Full-Zip Shacket
+message 
+
+Jacket: 19
+price: $114.99
+title: Men's Antigua Natural Golden State Warriors Fortune Quarter-Zip Pullover Jacket
+message 
+
+Jacket: 20
+price: $129.99
+title: Men's Jordan Brand Gray Golden State Warriors Courtside Statement Edition Jumpman Jam Full-Zip Jacket
+message 
+
+Jacket: 21
+price: $154.99
+title: Men's Starter Royal Golden State Warriors Scout I Full-Snap Varsity Jacket
+message 
+
+Jacket: 22
+price: $154.99
+title: Men's Nike Royal Golden State Warriors Authentic On-Court Showtime Performance Full-Zip Hoodie
+message 
+
+Jacket: 23
+price: $119.99
+title: Men's JH Design Royal/White Golden State Warriors Reversible Fleece & Faux Leather Full-Snap Jacket
+message 
+
+Jacket: 24
+price: $74.99
+title: Men's Nike Royal Golden State Warriors Authentic Performance Half-Zip Jacket
+message 
+
+Jacket: 25
+price: $114.99
+title: Men's Columbia Blue Golden State Warriors Oroville Creek Lined Full-Zip Jacket
+message 
+
+Jacket: 26
+price: $74.99
+title: Men's Nike Royal Golden State Warriors 2024/25 Courtside Performance Half-Zip Top
+message 
+
+Jacket: 27
+price: $84.99
+title: Men's Antigua Charcoal Golden State Warriors Metallic Logo Victory Raglan Full-Zip Hoodie
+message 
+
+Jacket: 28
+price: $84.99
+title: Men's Antigua Black Golden State Warriors Metallic Logo Victory Raglan Pullover Hoodie
+message 
+
+Jacket: 29
+price: $104.99
+title: Men's Columbia Black Golden State Warriors Omni-Wick Shotgun Quarter-Zip Pullover
+message 
+
+Jacket: 30
+price: $134.99
+title: Men's Mitchell & Ness Royal Golden State Warriors Undeniable Full-Zip Windbreaker Jacket
+message 
+
+Jacket: 31
+price: $94.99
+title: Men's Columbia Gray Golden State Warriors Park View Half-Zip Top
+message 
+
+Jacket: 32
+price: $113.99
+title: Men's Antigua Black Golden State Warriors Big & Tall Victory Full-Zip Hoodie Jacket
+message 
+
+Jacket: 33
+price: $174.99
+title: Men's Pro Standard Royal Golden State Warriors Sublimated Satin Full-Snap Jacket
+message 
+
+Jacket: 34
+price: $42.99
+title: Men's Nike Black Golden State Warriors 2023/24 City Edition Authentic Coaches Half-Zip Top
+message 
+
+Jacket: 35
+price: $84.99
+title: Men's Antigua Black Golden State Warriors Metallic Logo Victory Raglan Full-Zip Hoodie
+message 
+
+Jacket: 36
+price: $84.99
+title: Men's Antigua White Golden State Warriors Metallic Logo Victory Raglan Full-Zip Hoodie
+message 
+
+Jacket: 37
+price: $159.99
+title: Men's Pro Standard Brown Golden State Warriors Paint The City Full-Zip Jacket
+message 
+
+Jacket: 38
+price: $84.99
+title: Men's Columbia Royal Golden State Warriors Fast Trek III Half-Zip Fleece Pullover
+message 
+
+Jacket: 39
+price: $144.99
+title: Men's Starter Royal Golden State Warriors Scout Varsity Satin Full-Snap Jacket
+message 
+
+Jacket: 40
+price: $119.99
+title: Men's Mitchell & Ness White Golden State Warriors Hardwood Classics Throwback Wordmark Raglan Full-Snap Jacket
+message 
+
+Jacket: 41
+price: $139.99
+title: Men's Mitchell & Ness Royal Golden State Warriors Team OG 2.0 Vintage Logo Anorak Windbreaker Quarter-Zip Jacket
+message 
+
+Jacket: 42
+price: $79.99
+title: Men's Antigua Royal Golden State Warriors Tribute Quarter-Zip Pullover Top
+message 
+
+Jacket: 43
+price: $84.99
+title: Men's Antigua Royal Golden State Warriors Metallic Logo Victory Raglan Full-Zip Hoodie
+message 
+
+Jacket: 44
+price: $154.99
+title: Men's Nike Royal Golden State Warriors 2023/24 Authentic Showtime Full-Zip Hoodie
+message 
+
+Jacket: 45
+price: $188.00
+title: Men's Starter x Levi's Royal Golden State Warriors Silver Label Trucker Satin Full-Snap Jacket
+message 
+
+Jacket: 46
+price: $74.99
+title: Men's Nike Black Golden State Warriors Authentic Performance Half-Zip Jacket
+message 
+
+Jacket: 47
+price: $104.99
+title: Men's Columbia Heathered Gray/Royal Golden State Warriors Omni-Wick Shotgun 2.0 Quarter-Zip Pullover Top
+message 
+
+Jacket: 48
+price: $104.99
+title: Men's Columbia White Golden State Warriors Omni-Wick Shotgun Quarter-Zip Pullover
+message 
+
+Jacket: 49
+price: $169.99
+title: Men's G-III Sports by Carl Banks Tan Golden State Warriors Build Up Heavy Duck Canvas Full-Zip Hoodie
+message 
+
+Jacket: 50
+price: $82.99
+title: Men's Antigua Pewter Golden State Warriors Twist Quarter-Zip Pullover Top
+message 
+
+Jacket: 51
+price: $119.99
+title: Men's JH Design Gray/Royal Golden State Warriors Embroidered Logo Reversible Fleece Full-Snap Jacket
+message 
+
+Jacket: 52
+price: $144.99
+title: Men's Starter Black Golden State Warriors Scout Varsity Satin Full-Snap Jacket
+message 
+
+Jacket: 53
+price: $179.99
+title: Men's Starter Gold Golden State Warriors Reversible Satin Full-Snap Varsity Jacket
+message 
+
+Jacket: 54
+price: $89.99
+title: Unisex Stadium Essentials Navy Golden State Warriors Compete Quarter-Zip Hoodie Jacket
+message 
+
+Jacket: 55
+price: $74.99
+title: Men's Fanatics Royal/Heather Gray Golden State Warriors Big & Tall Pieced Stripe Raglan Full-Zip Track Jacket
+message 
+
+Jacket: 56
+price: $149.99
+title: Men's Starter Royal Golden State Warriors Home Game Satin Full-Snap Varsity Jacket
+message 
+
+Jacket: 57
+price: $129.99
+title: Men's Nike Royal Golden State Warriors Courtside Vintage Warmup Full-Zip Jacket
+message 
+
+Jacket: 58
+price: $115.99
+title: Men's Antigua Heather Royal Golden State Warriors Cloud Pullover Hoodie
+message 
+
+Jacket: 59
+price: $159.99
+title: Men's Columbia White Golden State Warriors Hikebound Full-Zip Jacket
+message 
+
+Jacket: 60
+price: $79.99
+title: Men's Antigua Charcoal Golden State Warriors Metallic Logo Tribute Quarter-Zip Top
+message 
+
+Jacket: 61
+price: $79.99
+title: Men's G-III Sports by Carl Banks Royal Golden State Warriors Contender Wordmark Full-Zip Track Jacket
+message 
+
+Jacket: 62
+price: $149.99
+title: Men's Starter Black Golden State Warriors Home Game Satin Full-Snap Varsity Jacket
+message 
+
+Jacket: 63
+price: $102.99
+title: Men's Antigua Heather Royal Golden State Warriors Subtle Quarter-Zip Sweatshirt
+message 
+
+Jacket: 64
+price: $84.99
+title: Men's Antigua Heather Gray Golden State Warriors Metallic Logo Victory Raglan Full-Zip Hoodie
+message 
+
+Jacket: 65
+price: $93.99
+title: Men's Antigua Heather Gray Golden State Warriors Bright Quarter-Zip Top
+message 
+
+Jacket: 66
+price: $82.99
+title: Men's Antigua Black Golden State Warriors Twist Quarter-Zip Pullover Top
+message 
+
+Jacket: 67
+price: $139.99
+title: Unisex The Wild Collective Blue Golden State Warriors Coaches Full-Zip Denim Jacket
+message 
+
+Jacket: 68
+price: $149.99
+title: Men's JH Design Royal Golden State Warriors Full-Zip Bomber Jacket
+message 
+
+Jacket: 69
+price: $199.99
+title: Men's JH Design Royal Golden State Warriors Reversible Wool Full-Zip Jacket
+message 
+
+Jacket: 70
+price: $94.99
+title: Men's Antigua Royal Golden State Warriors Big & Tall Generation Quarter-Zip Pullover Jacket
+message 
+
+Jacket: 71
+price: $84.99
+title: Men's Antigua Heather Gray Golden State Warriors Metallic Logo Victory Raglan Pullover Hoodie
+message 
+
+Jacket: 72
+price: $349.99
+title: Men's G-III Sports by Carl Banks Royal Golden State Warriors Moneyball Wool & Leather Full-Snap Varsity Jacket
+message 
+

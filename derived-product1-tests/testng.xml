@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Derived Product 1" verbose="1" parallel="tests" configfailurepolicy="continue">
+    <test  name="Derived Product 1 in Chrome">
+        <parameter name="browser" value="firefox" />
+        <classes>
+            <class name="runner.TestRunner">
+                <methods>
+                    <include name="scenario"/>
+                </methods>
+            </class>
+
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

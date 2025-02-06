@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="7.693" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-02-06T11:36:47.984886Z">
+<testcase classname="Test CoreProduct HomePage" name="Count Videos Feeds in Homepage" time="7.657">
+<system-out><![CDATA[
+Given User logs in to CP homepage...........................................passed
+When User hovers over ... Menu Item.........................................passed
+And User clicks on New & Features...........................................passed
+Then User counts total number of Videos Feeds...............................passed
+And User counts the videos feeds present in the page from more than "3" days.passed
+]]></system-out>
+</testcase>
+</testsuite>
