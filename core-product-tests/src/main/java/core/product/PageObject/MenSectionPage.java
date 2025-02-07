@@ -22,9 +22,6 @@ public class MenSectionPage extends Helper {
     @FindBy(xpath = "(//div[@data-talos='pageCount'])[1]")
     public WebElement pageCountTxt;
 
-//    @FindBy(className = "column")
-//    public List<WebElement> jackets;
-
     @FindBy(xpath = "(//li[@class='next-page'])[1]//i")
     public WebElement nextPageBtn;
 
@@ -35,6 +32,7 @@ public class MenSectionPage extends Helper {
     public WebElement closePopupBtn;
 
     public String columns = "//div[@class='column']";
+    public String pages = "(//a[text()='{pageNum}'])[1]";
 
     Config testConfig;
     WebDriverWait wait;
@@ -83,7 +81,7 @@ public class MenSectionPage extends Helper {
         //iterating through each page
         for (int i = 1; i <= pageCount; i++) {
 
-            pages.findElement(By.xpath("//a[text()='"+ i + "']")).click();
+            testConfig.driver.findElement(By.xpath(pages.replace("{pageNum}", Integer.toString(i)))).click();
             List<WebElement> jackets = testConfig.driver.findElements(By.xpath(columns));
 
             // getting details of each jacket in current page
